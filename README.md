@@ -47,6 +47,8 @@ Ensure your environment meets these requirements:
 - **Solana Wallet**: With sufficient SOL for transaction fees
 - **RPC Provider**: High-performance endpoint (Helius, GenesysGo, or Triton recommended)
 
+
+
 ### Installation
 
 1. **Clone and Setup**
@@ -65,4 +67,5 @@ Ensure your environment meets these requirements:
 3. **Wallet Setup**
    ```bash
    # Generate
+
 
